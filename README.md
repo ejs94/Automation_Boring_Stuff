@@ -1,4 +1,5 @@
 # Automation Boring Stuff with Python
 ## Udemy Course
 
-* Regex Example: Find all email and phone number from a clipboard of a PDF.
+* Regex Folder: Has a code example using Regex to find all email and phone number from a clipboard copy of a PDF.
+* Debuggin Folder : Has two code examples about the use of Raise, Assert and Logging
